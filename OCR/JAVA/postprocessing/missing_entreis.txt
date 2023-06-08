@@ -1,0 +1,27 @@
+Missing entries from Dadian: 2
+Entries not in Dadian: 11
+Total entries in Dadian: 722
+Private-studio entries in Dadian: 85
+Hong Kong/Taiwan entries in Dadian: 4
+Total non-mainland studio entries in Dadian (some of whom were shot in Shanghai): 27
+Extra-meta entries in Dadian: 72
+Total entries in this porject: 732
+Private-studio entries in this project: 86
+Total entries in bianmu: 656
+Private-studio entries in bianmu: 24
+
+Dadian includes 欢天喜地, but it was included in year 1948.
+Dadian also includes two entries 《逃不了》 and 《警惕》, whose reliability cannot be assessed and were not included by the project.
+
+Printing film missed in Dadian...
+欢天喜地, 1949
+蝶恋花, 1949
+烟花女儿翻身记, 1950
+诗礼传家, 1952
+广场杂技表演, 1955
+周信芳的艺术生活, 1956
+欢天喜地, 1959
+缅甸文化代表团访华演出, 1960
+春燕展翅, 1963
+福建工艺新花, 1965
+军垦战歌, 1965
