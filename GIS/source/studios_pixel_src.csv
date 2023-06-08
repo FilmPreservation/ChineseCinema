@@ -1,0 +1,23 @@
+city,region,x,y,film_count,plot_size
+Shanghai,Shanghai (roc),1606,-706,4,20
+Shanghai,Shanghai (private),1605,-708,86,670
+Changchun,Northeast,1648,-536,189,1880
+Beijing,Beijing,1555,-584,172,1710
+Shanghai,Shanghai (state),1610,-708,224,2180
+Jinan,Shandong,1561,-632,2,20
+Lanzhou,Gansu,1414,-653,1,10
+Paris,Western Europe,273,-458,1,10
+Hefei,Anhui,1566,-705,6,60
+Nanjing,Jiangsu,1586,-698,2,10
+Guangzhou,Canton,1516,-812,25,240
+Moscow,Soviet Union,670,-382,1,10
+Hohhot,Inner Mongolia,1508,-568,2,20
+Ürümqi,Xinjiang,1220,-518,5,50
+Changsha,Hunan,1510,-740,1,10
+Xi’an,Xi'an,1473,-657,22,220
+Hangzhou,Zhejiang,1593,-714,1,10
+Wuhan,Hubei,1528,-709,5,40
+Tianjin,Tianjin,1563,-595,2,20
+Xining,Qinghai,1383,-634,1,10
+Chengdu,Sichuan,1413,-707,3,30
+Hong Kong,Hong Kong,1524,-824,16,150

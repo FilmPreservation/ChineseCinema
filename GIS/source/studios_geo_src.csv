@@ -1,0 +1,23 @@
+city,region,latitude,longitude,film_count,plot_size
+Shanghai,Shanghai (roc),31.0480,121.7493,4,20
+Shanghai,Shanghai (private),31.0324,121.2265,86,670
+Changchun,Northeast,43.8160,125.3236,189,1880
+Beijing,Beijing,39.9042,116.4074,172,1710
+Shanghai,Shanghai (state),31.2304,121.4737,224,2180
+Jinan,Shandong,36.6518,117.1201,2,20
+Lanzhou,Gansu,36.0614,103.8342,1,10
+Paris,Western Europe,48.8566,2.3522,1,10
+Hefei,Anhui,31.8206,117.2290,6,60
+Nanjing,Jiangsu,32.0584,118.7965,2,10
+Guangzhou,Canton,23.1291,113.2644,25,240
+Moscow,Soviet Union,55.7558,37.6173,1,10
+Hohhot,Inner Mongolia,40.8415,111.7520,2,20
+Ürümqi,Xinjiang,43.8266,87.6169,5,50
+Changsha,Hunan,28.2278,112.9389,1,10
+Xi’an,Xi'an,34.2658,108.9541,22,220
+Hangzhou,Zhejiang,30.2741,120.1552,1,10
+Wuhan,Hubei,30.5928,114.3052,5,40
+Tianjin,Tianjin,39.0851,117.1994,2,20
+Xining,Qinghai,36.6173,101.7778,1,10
+Chengdu,Sichuan,30.5723,104.0665,3,30
+Hong Kong,Hong Kong,22.3139,114.1694,16,150

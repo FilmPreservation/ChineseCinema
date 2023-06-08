@@ -1,0 +1,19 @@
+Beijing: 162
+Shanghai (roc): 4
+Shanghai (state): 209
+Shanghai (private): 86
+Xi'an: 18
+Canton: 24
+Northeast: 181
+
+Collected 454 out of 684 targets.
+Collected 8 out of 86 private films.
+Collected 371 out of 524 feature films.
+Collected 446 out of 594 state films (exclusive of 4 films produced by the Republic of China).
+Collected 363 out of 440 state feature films.
+Collected 9 out of 39 documentaries.
+Collected 11 out of 21 performances.
+Collected 63 out of 100 operas.
+
+Feature film average reel length: 9
+Documentary average reel length: 6
